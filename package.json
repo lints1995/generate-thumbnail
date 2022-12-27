@@ -1,0 +1,11 @@
+{
+  "name": "generate-thumbnail",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://gitee.com/lints1995/generate-thumbnail.git",
+  "author": "lints <LinTianSheng@newhope.cn>",
+  "license": "MIT",
+  "dependencies": {
+    "gm": "^1.25.0"
+  }
+}
